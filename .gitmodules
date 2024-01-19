@@ -1,0 +1,21 @@
+[submodule "openssl-1.0.1s"]
+	path = openssl-1.0.1s
+	url = https://github.com/debugee/openssl-1.0.1s.git
+[submodule "jsoncpp-src-0.5.0"]
+	path = jsoncpp-src-0.5.0
+	url = https://github.com/debugee/jsoncpp-src-0.5.0.git
+[submodule "protobuf-3.13.0"]
+	path = protobuf-3.13.0
+	url = https://github.com/debugee/protobuf-3.13.0.git
+[submodule "protobuf-2.6.1"]
+	path = protobuf-2.6.1
+	url = https://github.com/debugee/protobuf-2.6.1.git
+[submodule "curlpp-0.8.1"]
+	path = curlpp-0.8.1
+	url = https://github.com/debugee/curlpp-0.8.1.git
+[submodule "CURL"]
+	path = CURL
+	url = https://github.com/debugee/CURL.git
+[submodule "zlib-1.2.8"]
+	path = zlib-1.2.8
+	url = https://github.com/debugee/zlib-1.2.8.git
